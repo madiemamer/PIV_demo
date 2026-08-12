@@ -84,8 +84,6 @@ Other tabs on the top bar include "Plot", "Extractions", "Statistics", "Syntheti
 
 Before closing PIVLab and MATLAB, navigate once more to "File" at the top bar. Select "Save" -> "Save PIVLab session". This will save the choices made in the PIV analysis if you need to refer back to them or update them in the future. At this point, we are done using PIVLab and can navigate to a Python IDE for post-processing.
 
-### Plotting Transects
-
 ## Starting from a previous session
 
 It is recommended to "save your session" at the end of every analysis in case you need to revisit the parameters you set or adjust them. To load from a previous session open the PIVLab GUI as shown previously. Instead of "Import images" select "Load session". Navigate to the directory where you stored your session data. It will be a `.mat` file. Select the file and click "Open". If the PIVLab GUI window disappears, navigate to your computer's top bar and click "Window". The GUI window will be listed there underneath the main MATLAB window.
